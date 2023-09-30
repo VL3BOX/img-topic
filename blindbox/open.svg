@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="445" height="194"
+    viewBox="0 0 445 194" fill="none">
+    <g opacity="1" transform="translate(0 0)  rotate(0)">
+        <path id="Rectangle 1" fill-rule="evenodd" fill="url(#linear_0)" opacity="1"
+            d="M0 15C0 6.716 6.716 0 15 0L445 0L445 179C445 187.284 438.284 194 430 194L0 194L0 15Z"></path>
+        <g opacity="1" transform="translate(23 43)  rotate(0)"><a xlink:href="https://" xlink:title="跳转"
+                target="_blank"><text>
+                    <tspan x="0" y="80" font-size="80" line-height="0" fill="#11390A" opacity="1"
+                        font-family="YouSheBiaoTiHei" font-weight="Regular" letter-spacing="0">十连开盒</tspan>
+                </text></a></g>
+        <path id="Rectangle 2" fill-rule="evenodd" fill="url(#linear_1)" opacity="1"
+            d="M0 144L445 144L445 179C445 187.284 438.284 194 430 194L0 194L0 144Z"></path>
+        <path id="Rectangle 3" fill-rule="evenodd" style="fill:#000000" opacity="1"
+            d="M279 144L445 144L445 179C445 187.284 438.284 194 430 194L279 194L279 144Z"></path>
+        <g opacity="1" transform="translate(321 23)  rotate(0)">
+            <mask id="bg-mask-0" fill="white">
+                <use transform="translate(0 0)  rotate(0)" xlink:href="#path_0"></use>
+            </mask>
+            <g mask="url(#bg-mask-0)">
+                <path id="Vector" fill-rule="evenodd" style="fill:#11390A" opacity="1"
+                    d="M26.0211,39h60.3999l2.1666,-8.6667h-53.8998v-8.6666h59.45c2.3933,0 4.3333,1.9401 4.3333,4.3333c0,0.3543 -0.0433,0.7073 -0.1296,1.051l-10.8333,43.3332c-0.4819,1.9292 -2.2152,3.2825 -4.2038,3.2825h-61.6166c-2.3932,0 -4.3333,-1.9401 -4.3333,-4.3334v-52h-8.66669v-8.66663h12.99999c2.3933,0 4.3333,1.94013 4.3333,4.33333zM26.0211,99.6667c-4.7864,0 -8.6666,-3.8801 -8.6666,-8.6667c0,-4.7866 3.8802,-8.6667 8.6666,-8.6667c4.7865,0 8.6667,3.8801 8.6667,8.6667c0,4.7866 -3.8802,8.6667 -8.6667,8.6667zM78.0212,99.6667c-4.7866,0 -8.6666,-3.8801 -8.6666,-8.6667c0,-4.7866 3.88,-8.6667 8.6666,-8.6667c4.7866,0 8.6667,3.8801 8.6667,8.6667c0,4.7866 -3.8801,8.6667 -8.6667,8.6667z">
+                </path>
+            </g>
+        </g>
+        <g opacity="1" transform="translate(304 150)  rotate(0)"><a xlink:href="https://" xlink:title="跳转"
+                target="_blank"><text>
+                    <tspan x="0" y="33" font-size="33" line-height="0" fill="#FFFFFF" opacity="1"
+                        font-family="YouSheBiaoTiHei" font-weight="Regular" letter-spacing="0">限时折扣</tspan>
+                </text></a></g>
+    </g>
+    <defs>
+        <linearGradient id="linear_0" x1="55.280900138704546%" y1="100.00000046086596%" x2="29.66292321561571%"
+            y2="0.000004510631446130731%" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#C4FF42" stop-opacity="1" />
+            <stop offset="1" stop-color="#F9FF95" stop-opacity="1" />
+        </linearGradient>
+        <linearGradient id="linear_1" x1="32.24719221367566%" y1="0%" x2="100.0000060575736%" y2="0%"
+            gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#FFFFFF" stop-opacity="1" />
+            <stop offset="1" stop-color="#FFFFFF" stop-opacity="0" />
+        </linearGradient>
+        <rect id="path_0" x="0" y="0" width="104" height="104" />
+    </defs>
+</svg>

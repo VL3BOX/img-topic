@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="242.42431640625" height="207.353271484375" viewBox="0 0 242.42431640625 207.353271484375" fill="none"><g opacity="1"  transform="translate(0 -0.00006103515625)  rotate(0)"><path id="Subtract" fill-rule="evenodd" style="fill:#707070" opacity="1" d="M121.213,139.963l121.211,-69.9817v67.3897l-121.211,69.982l-121.2125,-69.982v-67.3897z"></path><path id="Intersect" fill-rule="evenodd" style="fill:#FFFFFF" opacity="1" d="M242.424,69.9817l-121.211,69.9813l-121.2119,-69.9813l121.2119,-69.9817z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="242.42431640625"
+    height="207.353271484375" viewBox="0 0 242.42431640625 207.353271484375" fill="none">
+    <g opacity="1" transform="translate(0 -0.00006103515625)  rotate(0)">
+        <path id="Subtract" fill-rule="evenodd" style="fill:#f7f7f7" opacity="1"
+            d="M121.213,139.963l121.211,-69.9817v67.3897l-121.211,69.982l-121.2125,-69.982v-67.3897z"></path>
+        <path id="Intersect" fill-rule="evenodd" style="fill:#FFFFFF" opacity="1"
+            d="M242.424,69.9817l-121.211,69.9813l-121.2119,-69.9813l121.2119,-69.9817z"></path>
+    </g>
+</svg>
