@@ -1,0 +1,5 @@
+name: Upload to Cloudflare R2
+on:
+  push:
+    branches:
+      - i18n
