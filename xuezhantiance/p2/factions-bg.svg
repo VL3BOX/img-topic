@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1590" height="664" viewBox="0 0 1590 664" fill="none">
+<path d="M0 642L1590 642L1590 0L0 0L0 642Z"   fill="url(#linear_0)" opacity="1">
+</path>
+<rect x="0" y="642" width="1590" height="22"   fill="url(#linear_1)" >
+</rect>
+<defs>
+<linearGradient id="linear_0" x1="0%" y1="0%" x2="100%" y2="100%" gradientUnits="objectBoundingBox">
+<stop offset="0" stop-color="#BF3D3A"  />
+<stop offset="1" stop-color="#5E0000"  />
+</linearGradient>
+<linearGradient id="linear_1" x1="0%" y1="50%" x2="98%" y2="50%" gradientUnits="objectBoundingBox">
+<stop offset="0" stop-color="#FFFFFF" stop-opacity="0" />
+<stop offset="1" stop-color="#FFEAD4"  />
+</linearGradient>
+</defs>
+</svg>
